@@ -1,3 +1,3 @@
 # Mural-restoration
 Mural restoration using RFR-inpainting
-![iamge](https://github.com/zhangbaijin/Mural-restoration/result.jpg)
+![iamge](https://github.com/zhangbaijin/Mural-restoration/blob/main/result.jpg)
