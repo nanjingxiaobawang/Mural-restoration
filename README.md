@@ -1,2 +1,2 @@
 # Mural-restoration
-Mural restoration using CTSDG
+Mural restoration using RFR-inpainting
